@@ -1,5 +1,5 @@
 # Paper
-基于XGBoost增量学习的抄袭嫌疑代码推荐系统(Recommendation System of Plagiarism Code Based on XGBoost Incremental Learning)
+基于XGBoost增量学习的抄袭嫌疑代码推荐系统-Recommendation System of Plagiarism Code Based on XGBoost Incremental Learning
 
 该项目是一个网络应用和机器学习结合的项目，主要涉及许多算法的概念。
 
